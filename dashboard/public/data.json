@@ -1,0 +1,26 @@
+{
+  "categories": ["Canada", "China", "Russia", "Australia", "Germany", "France"],
+  "series": [
+    {
+      "name": "coal",
+      "values": [140, 232, 101, 264, 90, 340, 250]
+    },
+    {
+      "name": "hydro",
+      "values": [120, 282, 111, 234, 220, 340, 310]
+    },
+    {
+      "name": "nuclear",
+      "values": [320, 132, 201, 334, 190, 130, 220]
+    },
+    {
+      "name": "gas",
+      "values": [220, 402, 231, 134, 190, 230, 120]
+    },
+    {
+      "name": "oil",
+      "values": [220, 302, 181, 234, 210, 290, 150]
+    }
+  ]
+}
+

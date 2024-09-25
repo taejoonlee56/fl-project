@@ -1,0 +1,4 @@
+import Input from './lib/MaskedInput';
+export const MaskedInput = Input;
+export default Input;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi9zcmMvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxLQUFLLE1BQU0sbUJBQW1CLENBQUM7QUFFdEMsTUFBTSxDQUFDLE1BQU0sV0FBVyxHQUFHLEtBQUssQ0FBQztBQUNqQyxlQUFlLEtBQUssQ0FBQyJ9
